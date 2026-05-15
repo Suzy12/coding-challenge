@@ -2,3 +2,4 @@ elasticsearch==8.15.1
 sentence-transformers
 sentence-splitter
 torch
+more-itertools
